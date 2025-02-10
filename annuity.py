@@ -1,0 +1,1 @@
+# this function calculates the annuity payment for a given loan amount, interest rate, and number of payments
